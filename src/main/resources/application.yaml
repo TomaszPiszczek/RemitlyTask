@@ -1,0 +1,8 @@
+spring:
+    jackson:
+        mapper:
+            accept_case_insensitive_properties: true
+
+
+    application:
+        name: RemitlyTask
